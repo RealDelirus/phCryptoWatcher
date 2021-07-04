@@ -1,0 +1,7 @@
+C:\Users\Delirus\source\repos\phCryptoWatcher\phCryptoWatcher\bin\Debug\phCryptoWatcher.exe.config
+C:\Users\Delirus\source\repos\phCryptoWatcher\phCryptoWatcher\bin\Debug\phCryptoWatcher.exe
+C:\Users\Delirus\source\repos\phCryptoWatcher\phCryptoWatcher\bin\Debug\phCryptoWatcher.pdb
+C:\Users\Delirus\source\repos\phCryptoWatcher\phCryptoWatcher\obj\Debug\phCryptoWatcher.csprojAssemblyReference.cache
+C:\Users\Delirus\source\repos\phCryptoWatcher\phCryptoWatcher\obj\Debug\phCryptoWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Delirus\source\repos\phCryptoWatcher\phCryptoWatcher\obj\Debug\phCryptoWatcher.exe
+C:\Users\Delirus\source\repos\phCryptoWatcher\phCryptoWatcher\obj\Debug\phCryptoWatcher.pdb
