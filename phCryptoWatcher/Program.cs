@@ -90,7 +90,7 @@ namespace phCryptoWatcher
                     }
                 }
                 catch { }
-                Thread.Sleep(checkTime * 10000);
+                Thread.Sleep(checkTime * 1000);
             }
         }   
 
